@@ -4,9 +4,8 @@ I am a creative UI/UX Developer and Designer to create pleasurable user experien
 
 ### 💼 My Portfolio
 
-To see more [Portfolio](https://tingchiehlin.com/)
+To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### 📬 Contact Me 
 
-<img src='./img/linkedIn.png' alt='linkedIn'/><span> </span>
-<a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in">Linkedin</a>
+<a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="270" height="270"/></a>
