@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Ting Chieh Lin!
-<img src='./img/linkedIn.png' alt='header-cover'/>
 
 I am a creative UI/UX Developer and Designer to create pleasurable user experience and interactions. I love exploring new tech stack with creative methods and discover different areas.
 
