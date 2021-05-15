@@ -10,12 +10,21 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 <a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="26" height="27"/></a>
 
+### Full Stack Dev
+
+  - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
+  - Build a Storefront Backend
+  - My Store
+  - Hosting a Full Stack Application
+
 ### Front End Dev
 
 - React & Redux & React Native
 
+    - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
     - [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
     - [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
+    - [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
     - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 
 - Others
@@ -24,10 +33,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
     - [Travel App](https://github.com/TingChiehLin/Travel-App)
     - [Mars Dashboard](https://github.com/TingChiehLin/Mars-Dashboard)
     - [UdaciRacer Simulation Game](https://github.com/TingChiehLin/UdaciRacer-Sim)
-    - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-Ticket-Viewer)
     - [GameMeet](https://gamemeet.vercel.app/)
-    - [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
     - [Personal-Blog-Website](https://github.com/TingChiehLin/Personal-Blog-Website)
     - [Landing Page Project](https://github.com/TingChiehLin/Landing-Page)
-    
-
+  
