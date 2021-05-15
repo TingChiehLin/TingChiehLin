@@ -12,6 +12,8 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### Full Stack Dev
 
+- Node & Express & PostgreSQL & Angular & AWS
+  
   - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
   - Build a Storefront Backend
   - My Store
