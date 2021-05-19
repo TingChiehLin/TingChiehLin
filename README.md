@@ -1,6 +1,6 @@
 <img src='./img/TCL-header.png' alt='TCL-header'/>
 
-I am a Full Stack UI/UX Developer and Designer to create pleasurable user experience and interactions. I love exploring new tech stack with creative methods and discover different areas.
+I am a Full Stack UX/UI Developer and Designer to create pleasurable user experience and interactions. I love exploring new tech stack with creative methods and discover different areas.
 
 ### 💼  My Portfolio
 
