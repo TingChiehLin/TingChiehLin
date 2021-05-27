@@ -38,4 +38,9 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
     - [GameMeet](https://gamemeet.vercel.app/)
     - [Personal-Blog-Website](https://github.com/TingChiehLin/Personal-Blog-Website)
     - [Landing Page Project](https://github.com/TingChiehLin/Landing-Page)
-  
+
+### XR Dev & Design
+
+  - [Animal Village](https://tingchiehlin.com/animalvillage)
+  - [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
+
