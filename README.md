@@ -41,6 +41,11 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### XR Dev & Design
 
+- VR & Game Design
+  
   - [Animal Village](https://tingchiehlin.com/animalvillage)
+  
+- AR & UI Design
+  
   - [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
 
