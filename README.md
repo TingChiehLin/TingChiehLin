@@ -19,6 +19,10 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
   - My Store
   - Hosting a Full Stack Application
 
+- Others
+  
+  - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
+
 ### Front End Dev
 
 - React & Redux & React Native
@@ -26,8 +30,8 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
     - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
     - [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
     - [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
-    - [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
     - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
+    - [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
 
 - Others
 
@@ -45,7 +49,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
   
   - [Animal Village](https://tingchiehlin.com/animalvillage)
   
-- AR & UI Design
+- AR & UX/UI Design
   
   - [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
 
