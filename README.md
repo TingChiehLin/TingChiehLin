@@ -1,6 +1,6 @@
 <img src='./img/TCL-header.png' alt='TCL-header'/>
 
-I am a Full Stack UX/UI Developer and Designer to create pleasurable user experience and interactions. I love exploring new tech stacks with creative methods and discover different areas.
+I am a Creative UX/UI Developer and Designer to create pleasurable user experience and interactions. I love exploring new tech stacks with creative methods and discover different areas.
 
 ### 💼  My Portfolio
 
@@ -9,19 +9,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 ### 📬  Contact Me 
 
 <a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="26" height="27"/></a>
-
-### Full Stack Dev
-
-- Node & Express & PostgreSQL & Angular & AWS
-  
-  - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
-  - Build a Storefront Backend
-  - My Store
-  - Hosting a Full Stack Application
-
-- Others
-  
-  - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
 
 ### Front End Dev
 
@@ -43,6 +30,16 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
     - [Personal-Blog-Website](https://github.com/TingChiehLin/Personal-Blog-Website)
     - [Landing Page Project](https://github.com/TingChiehLin/Landing-Page)
 
+### Back End Dev
+
+- Node & Express
+  
+  - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
+  
+- Others
+  
+  - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
+  
 ### XR Dev & Design
 
 - VR & Game Design
