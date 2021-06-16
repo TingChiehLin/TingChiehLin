@@ -35,9 +35,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 - Node & Express
   
   - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
-  
-- Others
-  
   - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
   
 ### XR Dev & Design
