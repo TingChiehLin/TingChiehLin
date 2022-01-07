@@ -1,6 +1,6 @@
 <img src='./img/TCL-header.png' alt='TCL-header'/>
 
-I am a Creative UX/UI Developer and Designer to create pleasurable user experience and interactions. I love exploring new tech stacks with creative methods and discover different areas.
+I am a Creative UX/UI Developer and Designer to create pleasurable user experience and interactions. I love exploring new tech stacks with creative methods and discover different areas
 
 ### 💼  My Portfolio
 
@@ -14,9 +14,11 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - React & Redux & React Native & Next.js
 
+    - [Synergy Thinking](https://synergy-thinking.vercel.app/)
     - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
     - [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
     - [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
+    - [Drawing App](https://github.com/TingChiehLin/Drawing-App)
     - [GameMeet](https://gamemeet.vercel.app/)
     - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
     - [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
