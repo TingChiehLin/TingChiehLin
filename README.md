@@ -13,7 +13,8 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 ### Front End Dev
 
 - React & Redux & React Native & Next.js
-
+    
+    - [Symplicit Movie](https://github.com/TingChiehLin/movie-symplicit)
     - [Synergy Thinking](https://synergy-thinking.vercel.app/)
     - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
     - [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
