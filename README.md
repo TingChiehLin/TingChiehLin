@@ -4,7 +4,7 @@ I am a Creative UX/UI Developer and Designer to create pleasurable user experien
 
 ### 💼  My Portfolio
 
-To see more from my [Portfolio](https://tingchiehlin.com/)
+To see more from my [Portfolio](https://tingchiehlin.com/) and [Youtube Channel](https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ)
 
 ### 📬  Contact Me 
 
@@ -14,6 +14,9 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - React & Redux & React Native & Next.js
     
+    - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
+    - [TodoAoo]()
+    - [Dark & Light]()
     - [Symplicit Movie](https://github.com/TingChiehLin/movie-symplicit)
     - [Synergy Thinking](https://synergy-thinking.vercel.app/)
     - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
