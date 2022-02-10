@@ -10,7 +10,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Youtube Channel]
 
 <a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="26" height="27"/></a>
 
-### Front End Dev
+### Front End Dev & Design
 
 - React & Redux & React Native & Next.js
     
