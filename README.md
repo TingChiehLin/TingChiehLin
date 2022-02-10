@@ -15,8 +15,9 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Youtube Channel]
 - React & Redux & React Native & Next.js
     
     - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
-    - [TodoAoo]()
-    - [Dark & Light]()
+    - [TodoApp](https://github.com/TingChiehLin/todoapp)
+    - [Dark & Light](https://github.com/TingChiehLin/darkmode-toggle)
+    - [Learn Tailwildcss](https://github.com/TingChiehLin/learn-tailwildcss)
     - [Symplicit Movie](https://github.com/TingChiehLin/movie-symplicit)
     - [Synergy Thinking](https://synergy-thinking.vercel.app/)
     - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
