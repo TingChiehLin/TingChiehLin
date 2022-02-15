@@ -44,13 +44,20 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Youtube Channel]
   - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
   - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
   
-### XR Dev & Design
+### XR Dev & UX/UI Design
 
-- VR & Game Design
+- VR/AR & Game Design
   
   - [Animal Village](https://tingchiehlin.com/animalvillage)
+  - [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
   
-- AR & UX/UI Design
+- UX/UI Design
   
   - [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
-
+  - [Melbourne Music Festival](https://tingchiehlin.com/musicfestival)
+  - [Coffee research & Design System](https://tingchiehlin.com/coffeeresearch)
+  - [Food waste reduction](https://tingchiehlin.com/foodwaste)
+  - [Starbucks Solutions](https://tingchiehlin.com/startbucks)
+  - [AR Pet](https://tingchiehlin.com/arpet)
+  - [I Help](https://tingchiehlin.com/ihelp)
+  - [Food Foundry](https://tingchiehlin.com/foodfoundry)
