@@ -17,6 +17,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Youtube Channel]
     - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
     - [TodoApp](https://github.com/TingChiehLin/todoapp)
     - [Dark & Light](https://github.com/TingChiehLin/darkmode-toggle)
+    - [Ani-Navbar](https://github.com/TingChiehLin/navbar-ani)
     - [Learn Tailwildcss](https://github.com/TingChiehLin/learn-tailwildcss)
     - [React Form](https://github.com/TingChiehLin/envited)
     - [Symplicit Movie](https://github.com/TingChiehLin/movie-symplicit)
