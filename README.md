@@ -4,11 +4,13 @@ I am a Creative UX/UI Developer and Designer to create pleasurable user experien
 
 ### 💼 My Portfolio
 
-To see more from my [Portfolio](https://tingchiehlin.com/) and [Youtube Channel](https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ)
+To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### 📬 Contact Me
 
 <a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="26" height="27"/></a>
+
+<a href="https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ" title="Youtube"><img src='./img/youtube.png' alt='youtube' width="26" height="27"/></a>
 
 ### Front End Dev & Design
 
