@@ -11,7 +11,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 <div align="left">
     <a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="26" height="27"/></a>
-    <a href="https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ" title="Youtube"><img src='./img/youtube.png' alt='youtube' width="36" height="37"/></a>
+    <a href="https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ" title="Youtube"><img src='./img/youtube.png' alt='youtube' width="32" height="33"/></a>
 </div>
 
 ### Front End Dev & Design
