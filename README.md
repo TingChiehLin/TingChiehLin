@@ -9,9 +9,10 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### 📬 Contact Me
 
-<a align="left" href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="26" height="27"/></a>
-
-<a align="right" href="https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ" title="Youtube"><img src='./img/youtube.png' alt='youtube' width="26" height="27"/></a>
+<div align="left">
+    <a href="https://www.linkedin.com/in/cooloojayoo/" title="Linked-in"><img src='./img/linkedIn.png' alt='linkedIn' width="26" height="27"/></a>
+    <a href="https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ" title="Youtube"><img src='./img/youtube.png' alt='youtube' width="26" height="27"/></a>
+</div>
 
 ### Front End Dev & Design
 
