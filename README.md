@@ -1,6 +1,6 @@
 <img src='./img/TCL-header.png' alt='TCL-header'/>
 
-I am a Full Stack UX/UI Engineer and Designer to create pleasurable user experience and interactions. I love exploring
+I am a Full Stack UX/UI Engineer to create pleasurable user experience and interactions. I love exploring
 new tech stacks with creative methods and discover different areas
 
 ### 💼 My Portfolio
@@ -34,7 +34,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
   - [Ani-Navbar](https://github.com/TingChiehLin/navbar-ani)
   - [Learn Tailwildcss](https://github.com/TingChiehLin/learn-tailwildcss)
 
-- Design for fun
+- Design for Fun
 
   - [React Form](https://github.com/TingChiehLin/react-validatedForm)
   - [Payment UI](https://github.com/TingChiehLin/payment-ui)
