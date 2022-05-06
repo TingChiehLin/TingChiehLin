@@ -16,25 +16,30 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### Front End Dev & Design
 
-- React & Redux & React Native & Next.js
+- React & Redux & React Native & Next.js & Tailwind CSS
 
-  - [React Form](https://github.com/TingChiehLin/react-validatedForm)
   - [Drawing App](https://github.com/TingChiehLin/drawing-board)
-  - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
   - [TodoApp](https://github.com/TingChiehLin/todoapp)
-  - [Dark & Light](https://github.com/TingChiehLin/darkmode-toggle)
-  - [Ani-Navbar](https://github.com/TingChiehLin/navbar-ani)
   - [StopWatch](https://github.com/TingChiehLin/stopwatch)
   - [Symplicit Movie](https://github.com/TingChiehLin/movie-symplicit)
-  - [Synergy Thinking](https://synergy-thinking.vercel.app/)
-  - [GameMeet](https://gamemeet.vercel.app/)
   - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
   - [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
   - [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
   - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
-  - [Payment UI](https://github.com/TingChiehLin/payment-ui)
-  - [Learn Tailwildcss](https://github.com/TingChiehLin/learn-tailwildcss)
   - [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
+
+- Interactive & Animated Pages
+
+  - [Dark & Light](https://github.com/TingChiehLin/darkmode-toggle)
+  - [Ani-Navbar](https://github.com/TingChiehLin/navbar-ani)
+  - [Learn Tailwildcss](https://github.com/TingChiehLin/learn-tailwildcss)
+
+- Design for fun
+
+  - [React Form](https://github.com/TingChiehLin/react-validatedForm)
+  - [Payment UI](https://github.com/TingChiehLin/payment-ui)
+  - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
+  - [GameMeet](https://gamemeet.vercel.app/)
 
 - Others
 
