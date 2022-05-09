@@ -36,6 +36,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - Design for Fun
 
+  - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
   - [React Form](https://github.com/TingChiehLin/react-validatedForm)
   - [Payment UI](https://github.com/TingChiehLin/payment-ui)
   - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
