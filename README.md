@@ -37,6 +37,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - Design for Fun
 
+  - [Job Seeker](https://github.com/TingChiehLin/job-listing-filtering)
   - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
   - [React Form](https://github.com/TingChiehLin/react-validatedForm)
   - [Payment UI](https://github.com/TingChiehLin/payment-ui)
