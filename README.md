@@ -9,13 +9,13 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cooloojayoo/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/invite/vJtN5QtQtP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooloojayoo/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/vJtN5QtQtP)
 
 ## 💰 You can support me by donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/tingchiehlin)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
 
 ## 💻 Tech Stack
 
@@ -23,9 +23,9 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 # 🥷🏼 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=TingChiehLin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TingChiehLin&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TingChiehLin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Github Status](https://github-readme-stats.vercel.app/api?username=TingChiehLin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Github Status](https://github-readme-streak-stats.herokuapp.com/?user=TingChiehLin&theme=tokyonight&hide_border=false)<br/>
+![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=TingChiehLin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📖 Table Of Contents
 
