@@ -23,9 +23,9 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 # 🥷🏼 GitHub Stats :
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=TingChiehLin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Github Status](https://github-readme-streak-stats.herokuapp.com/?user=TingChiehLin&theme=tokyonight&hide_border=false)<br/>
-![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=TingChiehLin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Github Status](https://github-readme-stats.vercel.app/api?username=georgejecook&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Github Status](https://github-readme-streak-stats.herokuapp.com/?user=georgejecook&theme=tokyonight&hide_border=false)<br/>
+![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=georgejecook&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📖 Table Of Contents
 
