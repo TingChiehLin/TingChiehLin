@@ -16,18 +16,25 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### Front End Dev & Design
 
-- React & Redux & React Native & Next.js & Tailwind CSS
+- React & Redux & Tailwind CSS
 
   - [Drawing App](https://github.com/TingChiehLin/drawing-board)
   - [TodoApp](https://github.com/TingChiehLin/todoapp)
   - [StopWatch](https://github.com/TingChiehLin/stopwatch)
   - [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
   - [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
-  - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
   - [Symplicit Movie](https://github.com/TingChiehLin/movie-symplicit)
-  - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
   - [UnSplash Infinity Scroll](https://github.com/TingChiehLin/unsplash-infinity-scroll)
   - [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
+
+- Next.js
+
+  - [News-Reader](https://github.com/TingChiehLin/news-reader)
+  - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
+
+- React Native 
+
+  - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 
 - Interactive & Animated Pages
 
@@ -44,7 +51,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
   - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
   - [GameMeet](https://gamemeet.vercel.app/)
 
-- Others
+- JavaScript - ES6
 
   - [Dinosaurs](https://github.com/TingChiehLin/Dinosaurs)
   - [Travel App](https://github.com/TingChiehLin/Travel-App)
