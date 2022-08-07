@@ -1,6 +1,6 @@
 <img src='./img/TCL-header.png' alt='TCL-header'/>
 
-I am a Full Stack UX/UI Engineer to create pleasurable user experience and interactions. I love exploring
+I am a UX/UI Engineer to create pleasurable user experience and interactions. I love exploring
 new tech stacks with creative methods and discover different areas
 
 ## 💼 My Portfolio
@@ -12,6 +12,10 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooloojayoo/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/vJtN5QtQtP)
+
+## 🧑🏼‍🏫 Mentoring Program
+
+<a href="https://mentorcruise.com/mentor/tingchiehlin/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-available-badge.svg" width="240" alt="MentorCruise"> </a>
 
 ## 💰 You can support me by donating
 
