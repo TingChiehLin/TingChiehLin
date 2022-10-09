@@ -78,6 +78,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [React Form](https://github.com/TingChiehLin/react-validatedForm)
 - [Payment UI](https://github.com/TingChiehLin/payment-ui)
+- [NFT-Card](https://github.com/TingChiehLin/nft-card)
 - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
 - [GameMeet](https://gamemeet.vercel.app/)
 
