@@ -1,7 +1,6 @@
 <img src='./img/TCL-header.png' alt='TCL-header'/>
 
-I am a UX/UI Engineer to create pleasurable user experience and interactions. I love exploring
-new tech stacks with creative methods and discover different areas
+I am a UX/UI Specialist to create pleasurable user experience and interactions. I love exploring new tech stacks with creative methods and resolve problems.
 
 ## 💼 My Portfolio
 
@@ -48,6 +47,12 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 #### React & Redux & Tailwind CSS
 
+- [Password Generate](https://github.com/TingChiehLin/password-generator)
+- [Job Seeker](https://github.com/TingChiehLin/job-listing-filtering)
+- [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
+- [React Form](https://github.com/TingChiehLin/react-validatedForm)
+- [Payment UI](https://github.com/TingChiehLin/payment-ui)
+- [NFT-Card](https://github.com/TingChiehLin/nft-card)
 - [Drawing App](https://github.com/TingChiehLin/drawing-board)
 - [TodoApp](https://github.com/TingChiehLin/todoapp)
 - [StopWatch](https://github.com/TingChiehLin/stopwatch)
@@ -74,11 +79,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 #### Design for Fun
 
-- [Job Seeker](https://github.com/TingChiehLin/job-listing-filtering)
-- [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
-- [React Form](https://github.com/TingChiehLin/react-validatedForm)
-- [Payment UI](https://github.com/TingChiehLin/payment-ui)
-- [NFT-Card](https://github.com/TingChiehLin/nft-card)
 - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
 - [GameMeet](https://gamemeet.vercel.app/)
 
