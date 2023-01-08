@@ -68,6 +68,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 #### Next.js
 
+- [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
 - [News-Reader](https://github.com/TingChiehLin/news-reader)
 - [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
