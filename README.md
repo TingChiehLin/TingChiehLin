@@ -32,9 +32,8 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 - [💰 You can support me by donating](#-you-can-support-me-by-donating)
 - [💻 Tech Stack](#-tech-stack)
 - [📖 Table Of Contents](#-table-of-contents)
-  - [Web3](#web3)
-  - [Full Stack Dev](#full-stack-dev)
   - [Front End Dev \& Design](#front-end-dev--design)
+    - [Design System](#design-system)
     - [React \& Redux \& Tailwind CSS](#react--redux--tailwind-css)
     - [Next.js](#nextjs)
     - [React Native](#react-native)
@@ -43,19 +42,15 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
     - [JavaScript \& HTML5 \& CSS3](#javascript--html5--css3)
   - [Back End Dev](#back-end-dev)
     - [Node \& Express](#node--express)
+  - [Full Stack Dev](#full-stack-dev)
+  - [Web3](#web3)
   - [XR Dev \& UX/UI Design](#xr-dev--uxui-design)
     - [VR/AR \& Game Design](#vrar--game-design)
     - [UX/UI Design](#uxui-design)
 
-### Web3
-
-- [erc721-NFT](https://github.com/TingChiehLin/erc721-NFT)
-
-### Full Stack Dev
-
-- [Product Feedback(Developing)](https://github.com/TingChiehLin/product-feedback-app)
-
 ### Front End Dev & Design
+
+#### Design System
 
 #### React & Redux & Tailwind CSS
 
@@ -115,6 +110,14 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
 - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
+
+### Full Stack Dev
+
+- [Product Feedback(Developing)](https://github.com/TingChiehLin/product-feedback-app)
+
+### Web3
+
+- [erc721-NFT](https://github.com/TingChiehLin/erc721-NFT)
 
 ### XR Dev & UX/UI Design
 
