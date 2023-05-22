@@ -52,7 +52,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 #### Design System
 
-- [Design System Levelup](https://github.com/TingChiehLin/design-system-levelup)
+- [Design System Levelup(Developing)](https://github.com/TingChiehLin/design-system-levelup)
 
 #### React & Redux & Tailwind CSS
 
