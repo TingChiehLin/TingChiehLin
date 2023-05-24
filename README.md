@@ -42,7 +42,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
     - [JavaScript \& HTML5 \& CSS3](#javascript--html5--css3)
   - [Back End Dev](#back-end-dev)
     - [Node \& Express](#node--express)
-  - [Full Stack Dev](#full-stack-dev)
   - [Web3](#web3)
   - [XR Dev \& UX/UI Design](#xr-dev--uxui-design)
     - [VR/AR \& Game Design](#vrar--game-design)
@@ -76,6 +75,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 #### Next.js
 
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
+- [Product Feedback(Developing)](https://github.com/TingChiehLin/product-feedback-app)
 - [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
 - [News-Reader](https://github.com/TingChiehLin/news-reader)
@@ -112,10 +112,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
 - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
-
-### Full Stack Dev
-
-- [Product Feedback(Developing)](https://github.com/TingChiehLin/product-feedback-app)
 
 ### Web3
 
