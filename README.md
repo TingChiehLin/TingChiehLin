@@ -33,89 +33,52 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 - [💻 Tech Stack](#-tech-stack)
 - [📖 Table Of Contents](#-table-of-contents)
   - [Front End Dev \& Design](#front-end-dev--design)
-    - [Design System](#design-system)
-    - [React \& Redux \& Tailwind CSS](#react--redux--tailwind-css)
-    - [Next.js](#nextjs)
+    - [Frontend Development](#frontend-development)
+    - [Delightful \& Animated Design](#delightful--animated-design)
     - [React Native](#react-native)
-    - [Interactive \& Animated Pages](#interactive--animated-pages)
-    - [Design for Fun](#design-for-fun)
-    - [JavaScript \& HTML5 \& CSS3](#javascript--html5--css3)
-  - [Back End Dev](#back-end-dev)
-    - [Node \& Express](#node--express)
-  - [Web3](#web3)
+    - [NodeJS](#nodejs)
   - [XR Dev \& UX/UI Design](#xr-dev--uxui-design)
     - [VR/AR \& Game Design](#vrar--game-design)
     - [UX/UI Design](#uxui-design)
 
 ### Front End Dev & Design
 
-#### Design System
+#### Frontend Development
 
-- [Design System Levelup(Developing)](https://github.com/TingChiehLin/design-system-levelup)
-
-#### React & Redux & Tailwind CSS
-
+- [Product Feedback(Developing)](https://github.com/TingChiehLin/product-feedback-app)
+- [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [Password Generate](https://github.com/TingChiehLin/password-generator)
-- [Job Seeker](https://github.com/TingChiehLin/job-listing-filtering)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [Interactive Card Form](https://github.com/TingChiehLin/credit-card-form)
 - [Interactive card details form](https://github.com/TingChiehLin/credit-card-form)
 - [React Form](https://github.com/TingChiehLin/react-validatedForm)
-- [Payment UI](https://github.com/TingChiehLin/payment-ui)
-- [NFT-Card](https://github.com/TingChiehLin/nft-card)
-- [Drawing App](https://github.com/TingChiehLin/drawing-board)
-- [TodoApp](https://github.com/TingChiehLin/todoapp)
-- [StopWatch](https://github.com/TingChiehLin/stopwatch)
+- [News-Reader](https://github.com/TingChiehLin/news-reader)
 - [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
 - [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
-- [Symplicit Movie](https://github.com/TingChiehLin/movie-symplicit)
-- [UnSplash Infinity Scroll](https://github.com/TingChiehLin/unsplash-infinity-scroll)
-- [Tic-Tac-Toe](https://github.com/TingChiehLin/Tic-Tac-Toe)
+- [Job Seeker](https://github.com/TingChiehLin/job-listing-filtering)
+- [TodoApp](https://github.com/TingChiehLin/todoapp)
 
-#### Next.js
+#### Delightful & Animated Design
 
-- [World Holidays](https://github.com/TingChiehLin/world-holidays)
-- [Product Feedback(Developing)](https://github.com/TingChiehLin/product-feedback-app)
-- [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
-- [News-Reader](https://github.com/TingChiehLin/news-reader)
-- [Zendesk-Ticket-Viewer](https://github.com/TingChiehLin/Zendesk-TicketViewer)
+- [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
+- [Payment UI](https://github.com/TingChiehLin/payment-ui)
+- [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
+- [Refresh DB](https://github.com/TingChiehLin/ux-challenge-refresh-db)
+- [Dinosaurs](https://github.com/TingChiehLin/Dinosaurs)
+- [GameMeet](https://gamemeet.vercel.app/)
+- [NFT-Card](https://github.com/TingChiehLin/nft-card)
+- [Drawing App](https://github.com/TingChiehLin/drawing-board)
+- [Travel App](https://github.com/TingChiehLin/Travel-App)
 
 #### React Native
 
 - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 
-#### Interactive & Animated Pages
-
-- [Dark & Light](https://github.com/TingChiehLin/darkmode-toggle)
-- [Ani-Navbar](https://github.com/TingChiehLin/navbar-ani)
-- [Learn Tailwildcss](https://github.com/TingChiehLin/learn-tailwildcss)
-
-#### Design for Fun
-
-- [Refresh DB](https://github.com/TingChiehLin/ux-challenge-refresh-db)
-- [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
-- [GameMeet](https://gamemeet.vercel.app/)
-
-#### JavaScript & HTML5 & CSS3
-
-- [Dinosaurs](https://github.com/TingChiehLin/Dinosaurs)
-- [Travel App](https://github.com/TingChiehLin/Travel-App)
-- [Mars Dashboard](https://github.com/TingChiehLin/Mars-Dashboard)
-- [UdaciRacer Simulation Game](https://github.com/TingChiehLin/UdaciRacer-Sim)
-- [Personal-Blog-Website](https://github.com/TingChiehLin/Personal-Blog-Website)
-- [Landing Page Project](https://github.com/TingChiehLin/Landing-Page)
-
-### Back End Dev
-
-#### Node & Express
+#### NodeJS
 
 - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
 - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
-
-### Web3
-
-- [erc721-NFT](https://github.com/TingChiehLin/erc721-NFT)
 
 ### XR Dev & UX/UI Design
 
