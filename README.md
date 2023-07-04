@@ -33,35 +33,27 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 - [💻 Tech Stack](#-tech-stack)
 - [📖 Table Of Contents](#-table-of-contents)
   - [Front End Dev \& Design](#front-end-dev--design)
-    - [Frontend Development](#frontend-development)
-    - [Delightful \& Animated Design](#delightful--animated-design)
+    - [Delightful + Animated](#delightful--animated)
     - [React Native \& Node.js](#react-native--nodejs)
   - [XR \& UX/UI \& Game](#xr--uxui--game)
 
 ### Front End Dev & Design
 
-#### Frontend Development
-
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [Password Generate](https://github.com/TingChiehLin/password-generator)
-- [MyReads-A-Book-Tracking-App](https://github.com/TingChiehLin/MyReads-A-Book-Tracking-App)
-- [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
-- [Interactive Card Form](https://github.com/TingChiehLin/credit-card-form)
-
-#### Delightful & Animated Design
-
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
-- [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
-- [Payment UI](https://github.com/TingChiehLin/payment-ui)
-- [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
-- [Refresh DB](https://github.com/TingChiehLin/ux-challenge-refresh-db)
-- [Dinosaurs](https://github.com/TingChiehLin/Dinosaurs)
-- [GameMeet](https://gamemeet.vercel.app/)
-- [NFT-Card](https://github.com/TingChiehLin/nft-card)
 - [Drawing App](https://github.com/TingChiehLin/drawing-board)
+- [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
 - [Travel App](https://github.com/TingChiehLin/Travel-App)
+
+#### Delightful + Animated
+
+- [NFT-Card](https://github.com/TingChiehLin/nft-card)
+- [GameMeet](https://gamemeet.vercel.app/)
+- [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
+- [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
 
 #### React Native & Node.js
 
@@ -73,6 +65,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - [Animal Village](https://tingchiehlin.com/animalvillage)
 - [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
+- [Refresh DB](https://github.com/TingChiehLin/ux-challenge-refresh-db)
 - [Melbourne Music Festival](https://tingchiehlin.com/musicfestival)
 - [Coffee research & Design System](https://tingchiehlin.com/coffeeresearch)
 - [Food waste reduction](https://tingchiehlin.com/foodwaste)
