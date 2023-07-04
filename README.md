@@ -1,6 +1,6 @@
 <img src='./img/TCL_Header.png' alt='TCL-header'/>
 
-I am a UX/UI Specialist to create pleasurable user experience and interactions. I love exploring new tech stacks with creative methods and resolve problems.
+I am a UX/UI Specialist to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems.
 
 ## 💼 My Portfolio
 
