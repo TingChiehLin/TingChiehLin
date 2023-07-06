@@ -12,10 +12,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jaylinxr)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/vJtN5QtQtP)
 
-## 🧑🏼‍🏫 Mentoring Program
-
-<a href="https://mentorcruise.com/mentor/tingchiehlin/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-available-badge.svg" width="240" alt="MentorCruise"> </a>
-
 ## 💰 You can support me by donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
@@ -28,7 +24,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - [💼 My Portfolio](#-my-portfolio)
 - [📬 Contact Me](#-contact-me)
-- [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
 - [💰 You can support me by donating](#-you-can-support-me-by-donating)
 - [💻 Tech Stack](#-tech-stack)
 - [📖 Table Of Contents](#-table-of-contents)
