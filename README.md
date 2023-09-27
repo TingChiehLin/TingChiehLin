@@ -14,7 +14,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ## 🧑🏼‍🏫 Mentoring Program
 
-<a href="https://mentorcruise.com/mentor/tingchiehlin/">
+<a href="https://mentorcruise.com/mentor/tingchiehlin/" target="_blank">
 <img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise">
 </a>
 
@@ -28,7 +28,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 - [📬 Contact Me](#-contact-me)
 - [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
 - [💰 You can support me by donating](#-you-can-support-me-by-donating)
-- [� Table Of Contents](#-table-of-contents)
+- [📖 Table Of Contents](#-table-of-contents)
   - [Front End Dev \& Design](#front-end-dev--design)
     - [Delightful + Animated](#delightful--animated)
     - [React Native \& Node.js](#react-native--nodejs)
