@@ -1,6 +1,6 @@
 <img src='./img/TCL_Header.png' alt='TCL-header'/>
 
-I am a UX/UI Specialist to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems.
+I am a UX/UI Designer and programmer to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems.
 
 ## 💼 My Portfolio
 
@@ -14,7 +14,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ## 🧑🏼‍🏫 Mentoring Program
 
-<a href="https://mentorcruise.com/mentor/tingchiehlin/" target="_blank" rel="noopener noreferrer" >
+<a href="https://mentorcruise.com/mentor/tingchiehlin/" target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise">
 </a>
 
