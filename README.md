@@ -14,7 +14,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ## 🧑🏼‍🏫 Mentoring Program
 
-<a href="https://mentorcruise.com/mentor/tingchiehlin/" target="_blank">
+<a href="https://mentorcruise.com/mentor/tingchiehlin/" target="_blank" rel="noopener noreferrer" >
 <img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise">
 </a>
 
