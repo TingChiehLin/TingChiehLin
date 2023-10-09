@@ -36,12 +36,12 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### Front End Dev & Design
 
+- [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
+- [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
-- [Password Generate](https://github.com/TingChiehLin/password-generator)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
-- [Drawing App](https://github.com/TingChiehLin/drawing-board)
 - [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
 - [Travel App](https://github.com/TingChiehLin/Travel-App)
 
