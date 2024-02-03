@@ -36,13 +36,13 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 ### Front End Dev & Design
 
-- [Crypto Search](https://github.com/TingChiehLin/crypto-search)
+- [The News](https://github.com/TingChiehLin/the-news)
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
+- [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
-- [Would you rather game](https://github.com/TingChiehLin/Would-You-Rather-Game)
 - [Travel App](https://github.com/TingChiehLin/Travel-App)
 
 #### Delightful + Animated
