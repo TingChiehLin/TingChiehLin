@@ -1,6 +1,6 @@
 <img src='./img/TCL_Header.png' alt='TCL-header'/>
 
-I am a UX/UI designer and developer to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems. Currently, I am moving to full stack development.
+I am a UX/UI developer to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems. Currently, I am moving to full stack development with Python and Flask.
 
 ## 💼 My Portfolio
 
@@ -38,8 +38,9 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - [The News](https://github.com/TingChiehLin/the-news)
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
-- [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
+- [Next To-Do App](https://github.com/TingChiehLin/next-todo-app)
+- [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
