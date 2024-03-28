@@ -1,6 +1,6 @@
 <img src='./img/TCL_Header.png' alt='TCL-header'/>
 
-I am a UX/UI developer to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems. Currently, I am moving to full stack development with Python and Flask.
+I am a UX/UI developer to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems. Currently, I am moving to full stack development with Python, Flask, SQLAlchemy, PostgresSQL. 
 
 ## 💼 My Portfolio
 
