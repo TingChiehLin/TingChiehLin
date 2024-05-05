@@ -4,7 +4,7 @@ I am a UX/UI developer who love aesthetic design to create pleasurable user expe
 
 ## 💼 My Portfolio
 
-To see more from my old[Portfolio](https://tingchiehlin.com/). Currently, I am developing brand new portfolio 😎
+To see more from my [Portfolio](https://tingchiehlin.com/). Currently, I am developing brand new portfolio 😎
 
 ## 📬 Contact Me
 
