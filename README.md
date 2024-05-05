@@ -1,16 +1,16 @@
 <img src='./img/TCL_Header.png' alt='TCL-header'/>
 
-I am a UX/UI developer to create pleasurable user experience & interface and interactions. Alos,I love exploring new tech stacks with creative methods and resolve problems. Currently, I am moving to full stack development with Python, Flask, SQLAlchemy, PostgresSQL. 
+I am a UX/UI developer who love aesthetic design to create pleasurable user experience & interface with interactions. Also,I love exploring new tech stacks with creative methods and resolve problems
 
 ## 💼 My Portfolio
 
-To see more from my [Portfolio](https://tingchiehlin.com/)
+To see more from my old[Portfolio](https://tingchiehlin.com/). Currently, I am developing brand new portfolio 😎
 
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooloojayoo/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jaylinxr)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/vJtN5QtQtP)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=fff&style=plastic)](https://dribbble.com/jaylinxr)
 
 ## 🧑🏼‍🏫 Mentoring Program
 
@@ -50,7 +50,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 #### Delightful + Animated
 
 - [NFT-Card](https://github.com/TingChiehLin/nft-card)
-- [GameMeet](https://gamemeet.vercel.app/)
 - [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
 
@@ -68,9 +67,3 @@ To see more from my [Portfolio](https://tingchiehlin.com/)
 
 - [Animal Village](https://tingchiehlin.com/animalvillage)
 - [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
-- [Refresh DB](https://github.com/TingChiehLin/ux-challenge-refresh-db)
-- [Melbourne Music Festival](https://tingchiehlin.com/musicfestival)
-- [Coffee research & Design System](https://tingchiehlin.com/coffeeresearch)
-- [Food waste reduction](https://tingchiehlin.com/foodwaste)
-- [Starbucks Solutions](https://tingchiehlin.com/startbucks)
-- [AR Pet](https://tingchiehlin.com/arpet)
