@@ -2,6 +2,19 @@
 
 I am a UX/UI developer who love aesthetic design to create pleasurable user experience & interface with interactions. Also,I love exploring new tech stacks with creative methods and resolve problems
 
+## 📖 Table Of Contents
+
+- [� Table Of Contents](#-table-of-contents)
+- [💼 My Portfolio](#-my-portfolio)
+- [📬 Contact Me](#-contact-me)
+- [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
+- [💰 You can support me by donating](#-you-can-support-me-by-donating)
+  - [Front End Dev \& Design](#front-end-dev--design)
+    - [Delightful + Animated](#delightful--animated)
+    - [React Native](#react-native)
+  - [Back End](#back-end)
+  - [XR \& UX/UI \& Game](#xr--uxui--game)
+
 ## 💼 My Portfolio
 
 To see more from my [Portfolio](https://tingchiehlin.com/). Currently, I am developing brand new portfolio 😎
@@ -21,19 +34,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/). Currently, I am deve
 ## 💰 You can support me by donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
-
-## 📖 Table Of Contents
-
-- [💼 My Portfolio](#-my-portfolio)
-- [📬 Contact Me](#-contact-me)
-- [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
-- [💰 You can support me by donating](#-you-can-support-me-by-donating)
-- [📖 Table Of Contents](#-table-of-contents)
-  - [Front End Dev \& Design](#front-end-dev--design)
-    - [Delightful + Animated](#delightful--animated)
-    - [React Native](#react-native)
-  - [Back End](#back-end)
-  - [XR \& UX/UI \& Game](#xr--uxui--game)
 
 ### Front End Dev & Design
 
