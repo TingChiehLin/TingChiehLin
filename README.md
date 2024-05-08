@@ -14,7 +14,8 @@ I am a UX/UI developer who love aesthetic design to create pleasurable user expe
 
 ## 💼 My Portfolio
 
-To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://www.behance.net/jaylinxr). Currently, I am developing brand new portfolio 😎
+To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://www.behance.net/jaylinxr)
+
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooloojayoo/)
@@ -42,7 +43,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
 - [Travel App](https://github.com/TingChiehLin/Travel-App)
-- [NFT-Card](https://github.com/TingChiehLin/nft-card)
 - [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
 - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
