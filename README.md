@@ -9,8 +9,6 @@ I am a UX/UI developer who love aesthetic design to create pleasurable user expe
   - [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
   - [💰 You can support me by donating](#-you-can-support-me-by-donating)
     - [Front End Dev \& Design](#front-end-dev--design)
-      - [Delightful + Animated](#delightful--animated)
-      - [React Native](#react-native)
     - [Back End](#back-end)
     - [XR \& UX/UI \& Game](#xr--uxui--game)
 
@@ -44,15 +42,9 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
 - [Travel App](https://github.com/TingChiehLin/Travel-App)
-
-#### Delightful + Animated
-
 - [NFT-Card](https://github.com/TingChiehLin/nft-card)
 - [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
-
-#### React Native
-
 - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 
 ### Back End
