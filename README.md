@@ -40,11 +40,10 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://
 - [Next To-Do App](https://github.com/TingChiehLin/next-todo-app)
 - [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
-- [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
-- [Travel App](https://github.com/TingChiehLin/Travel-App)
 - [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
+- [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 
 ### Back End
 
