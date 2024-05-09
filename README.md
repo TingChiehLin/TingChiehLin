@@ -44,7 +44,6 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
 - [Travel App](https://github.com/TingChiehLin/Travel-App)
 - [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
-- [Marvel-Hero](https://github.com/TingChiehLin/marvel-hero)
 - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 
 ### Back End
