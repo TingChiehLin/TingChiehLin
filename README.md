@@ -9,7 +9,7 @@ I am a UX/UI developer who love aesthetic design to create pleasurable user expe
   - [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
   - [💰 You can support me by donating](#-you-can-support-me-by-donating)
     - [Front End Dev \& Design](#front-end-dev--design)
-    - [Back End](#back-end)
+    - [Back End Dev](#back-end-dev)
     - [XR \& UX/UI \& Game](#xr--uxui--game)
 
 ## 💼 My Portfolio
@@ -45,7 +45,7 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://
 - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 
-### Back End
+### Back End Dev
 
 - [Yummy CLI](https://github.com/TingChiehLin/CLI)
 - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
