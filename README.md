@@ -8,7 +8,7 @@ I am a UX/UI developer who love aesthetic design to create pleasurable user expe
   - [📬 Contact Me](#-contact-me)
   - [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
   - [💰 You can support me by donating](#-you-can-support-me-by-donating)
-    - [Front End Dev \& Design](#front-end-dev--design)
+    - [Front End Dev](#front-end-dev)
     - [Back End Dev](#back-end-dev)
     - [XR \& UX/UI \& Game](#xr--uxui--game)
 
@@ -32,11 +32,11 @@ To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
 
-### Front End Dev & Design
+### Front End Dev
 
+- [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
 - [The News](https://github.com/TingChiehLin/the-news)
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
-- [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
 - [Next To-Do App](https://github.com/TingChiehLin/next-todo-app)
 - [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
