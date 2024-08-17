@@ -1,6 +1,6 @@
 <img src='./img/TCL_Header.png' alt='TCL-header'/>
 
-I am a UX/UI developer who love aesthetic design to create pleasurable user experience & interface with interactions. Also,I love exploring new tech stacks with creative methods and resolve problems
+I am a Full Stack UX/UI developer who love aesthetic design to create pleasurable user experience & interface with interactions. Also,I love exploring new tech stacks with creative methods and resolve problems
 
 # 📖 Table Of Contents
 - [📖 Table Of Contents](#-table-of-contents)
