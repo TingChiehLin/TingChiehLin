@@ -15,7 +15,10 @@ I am a Full Stack UX/UI developer who love aesthetic design to create pleasurabl
 
 ## 💼 My Portfolio
 
-To see more from my [Portfolio](https://tingchiehlin.com/) and [Design](https://www.behance.net/jaylinxr)
+To see more
+
+- [Personal Website](https://tingchiehlin.com/)
+- [Design Portfolio](https://www.behance.net/jaylinxr)
 
 ## 📬 Contact Me
 
