@@ -44,7 +44,6 @@ To see more
 
 - [The News](https://github.com/TingChiehLin/the-news)
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
-- [Video Highlight Tool](https://github.com/TingChiehLin/video-highlight-tool)
 - [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
