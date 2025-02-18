@@ -28,7 +28,7 @@ To see more
 
 ## 🧑🏼‍🏫 Mentoring Program
 
-<a href="https://mentorcruise.com/mentor/tingchiehlin/" target="_blank" rel="noopener noreferrer">
+<a href="https://mentorcruise.com/mentor/tingchiehlin/?ref=tinglin1" target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise">
 </a>
 
