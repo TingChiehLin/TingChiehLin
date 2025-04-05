@@ -1,6 +1,8 @@
 <img src='./img/TCL_Header.png' alt='TCL-header'/>
 
-I am a Full Stack UX/UI developer who love aesthetic design to create pleasurable user experience & interface with interactions. Also,I love exploring new tech stacks with creative methods and resolve problems
+I am a Full-Stack UX/UI Developer dedicated to crafting visually engaging designs and seamless, user‑centered interactions. With a passion for exploring emerging technologies and innovative problem‑solving methods, I deliver creative, high‑impact solutions. 
+
+Currently, I am pursuing a Master of Computer Science at Sydney University, specializing in Artificial Intelligence, Human‑Computer Interaction, and Software Engineering.
 
 # 📖 Table Of Contents
 - [📖 Table Of Contents](#-table-of-contents)
