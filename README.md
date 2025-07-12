@@ -10,9 +10,10 @@ Currently, I am pursuing a Master of Computer Science at Sydney University speci
   - [📬 Contact Me](#-contact-me)
   - [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
   - [💰 You can support me by donating](#-you-can-support-me-by-donating)
+    - [AI \& Data](#ai--data)
     - [Full Stack Dev](#full-stack-dev)
     - [Front End Dev](#front-end-dev)
-    - [Back End Dev](#back-end-dev)
+    - [Others](#others)
     - [XR \& UX/UI \& Game](#xr--uxui--game)
 
 ## 💼 My Portfolio
@@ -38,6 +39,10 @@ To see more
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
 
+### AI & Data
+
+- [image_classifier_breed](https://github.com/TingChiehLin/image_classifier_breed)
+
 ### Full Stack Dev
 
 - [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
@@ -53,7 +58,7 @@ To see more
 - [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 
-### Back End Dev
+### Others
 
 - [Yummy CLI](https://github.com/TingChiehLin/CLI)
 - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
