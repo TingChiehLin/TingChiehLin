@@ -22,12 +22,14 @@ To see more
 
 - [Personal Website](https://tingchiehlin.com/)
 - [Design Portfolio](https://www.behance.net/jaylinxr)
+- [Curiosity Space](https://www.youtube.com/@Curiosity_Space-e3b)
 
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylinxr/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jaylinxr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jaylinxr)
+[![Curiosity Space](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cur_iosityspace/)
 
 ## 🧑🏼‍🏫 Mentoring Program
 
