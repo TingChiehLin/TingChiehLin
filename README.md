@@ -47,6 +47,7 @@ To see more
 
 ### Full Stack Dev
 
+- [Mood Music Recommender](https://github.com/TingChiehLin/ai-mood-music-recommender)
 - [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
 
 ### Front End Dev
