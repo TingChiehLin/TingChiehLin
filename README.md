@@ -13,6 +13,7 @@ Currently, I am pursuing a Master of Computer Science at Sydney University speci
     - [AI \& Data](#ai--data)
     - [Full Stack Dev](#full-stack-dev)
     - [Front End Dev](#front-end-dev)
+    - [React Native](#react-native)
     - [Others](#others)
     - [XR \& UX/UI \& Game](#xr--uxui--game)
 
@@ -58,8 +59,12 @@ To see more
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
 - [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
-- [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
+
+### React Native
+
+- [MIXR](https://github.com/TingChiehLin/mixr)
+- [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 
 ### Others
 
