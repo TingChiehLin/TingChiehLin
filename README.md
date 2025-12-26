@@ -44,6 +44,7 @@ To see more
 
 ### AI & Data
 
+- [AgentsVille Trip Planner](https://github.com/TingChiehLin/agentsville_planner)
 - [image_classifier_breed](https://github.com/TingChiehLin/image_classifier_breed)
 
 ### Full Stack Dev
