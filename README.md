@@ -69,6 +69,7 @@ To see more
 
 ### Others
 
+- [C-3PO](https://youtu.be/eKKtbI5PHLo?si=mSS_Glo_Qtpiwzwp)
 - [Yummy CLI](https://github.com/TingChiehLin/CLI)
 - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
 - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
