@@ -23,6 +23,7 @@ To see more
 
 - [Personal Website](https://tingchiehlin.com/)
 - [Design Portfolio](https://www.behance.net/jaylinxr)
+- [Devpost](https://devpost.com/cooloojayoo)
 - [Curiosity Space](https://www.youtube.com/@Curiosity_Space-e3b)
 
 ## 📬 Contact Me
