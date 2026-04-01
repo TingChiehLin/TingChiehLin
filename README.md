@@ -10,7 +10,7 @@ I’m especially interested in AI, human-computer interaction, and creative prob
   - [📬 Contact Me](#-contact-me)
   - [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
   - [💰 You can support me by donating](#-you-can-support-me-by-donating)
-    - [AI \& Data](#ai--data)
+    - [AI \& Data \& Automation](#ai--data--automation)
     - [Full Stack Dev](#full-stack-dev)
     - [Front End Dev](#front-end-dev)
     - [React Native](#react-native)
@@ -44,7 +44,7 @@ To see more
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
 
-### AI & Data
+### AI & Data & Automation
 
 - [AgentsVille Trip Planner](https://github.com/TingChiehLin/agentsville_planner)
 - [image_classifier_breed](https://github.com/TingChiehLin/image_classifier_breed)
