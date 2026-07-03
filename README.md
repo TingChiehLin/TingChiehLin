@@ -60,8 +60,6 @@ To see more
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
 - [Crypto Search](https://github.com/TingChiehLin/crypto-search)
 - [World Holidays](https://github.com/TingChiehLin/world-holidays)
-- [Broccoli-Co-App](https://github.com/TingChiehLin/Broccoli-Co-App)
-- [Mosh Hero](https://github.com/TingChiehLin/mosh_hero)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 
 ### React Native
