@@ -1,60 +1,54 @@
-<img src='./img/TCL_Header.png' alt='TCL-header'/>
+<img src="./img/TCL_Header.png" alt="TCL-header"/>
 
-I’m a full-stack UX/UI developer and Master of Computer Science student, passionate about building meaningful digital experiences that blend design and technology. With a strong foundation in frontend development and user-centered design, I enjoy turning complex ideas into intuitive, visually engaging products. 
+# Product Engineer | AI & Creative Technology
 
-I’m especially interested in AI, human-computer interaction, and creative problem-solving. I also love collaborating, mentoring, and bringing people together through projects and events that bridge design and tech.
+I’m a Product Engineer focused on building AI-powered products and creative experiences. I combine full-stack development, UX/UI design, and product thinking to turn ideas into useful, intuitive tools. I start with user needs and develop solutions through prototyping and feedback.
 
-# 📖 Table Of Contents
-- [📖 Table Of Contents](#-table-of-contents)
-  - [💼 My Portfolio](#-my-portfolio)
-  - [📬 Contact Me](#-contact-me)
-  - [🧑🏼‍🏫 Mentoring Program](#-mentoring-program)
-  - [💰 You can support me by donating](#-you-can-support-me-by-donating)
-    - [AI \& Data \& Automation](#ai--data--automation)
-    - [Full Stack Dev](#full-stack-dev)
-    - [Front End Dev](#front-end-dev)
-    - [React Native](#react-native)
-    - [Others](#others)
-    - [XR \& UX/UI \& Game](#xr--uxui--game)
+I’m graduating with a Master of Computer Science and am especially interested in AI-powered creation and human–AI interaction. I enjoy exploring how AI can help people create, express ideas, and solve problems, alongside mentoring and collaborating across design and technology.
 
-## 💼 My Portfolio
+## 📖 Table of Contents
 
-To see more
+- [Selected Projects](#-selected-projects)
+- [Projects](#-projects)
+- [My Portfolio](#-my-portfolio)
+- [Contact Me](#-contact-me)
+- [Mentoring](#-mentoring)
+- [Support My Work](#-support-my-work)
 
-- [Personal Website](https://tingchiehlin.com/)
-- [Design Portfolio](https://www.behance.net/jaylinxr)
-- [Devpost](https://devpost.com/cooloojayoo)
-- [Little Life Anime Stories](https://youtube.com/@littlelifeanimestories?si=Ac7Mn0kqWQ4xA-Av)
+## ✨ Selected Projects
 
-## 📬 Contact Me
+### [AgentsVille Trip Planner](https://github.com/TingChiehLin/agentsville_planner)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylinxr/)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jaylinxr)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/cooloojayoo)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jaylinxr)
-[![Curiosity Space](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cur_iosityspace/)
+An AI travel-planning project that generates and refines itineraries using an LLM and simulated weather and activity tools. It explores how agents can combine structured outputs and tool use to support a practical planning task.
 
-## 🧑🏼‍🏫 Mentoring Program
+### [Mood Music Recommender](https://github.com/TingChiehLin/ai-mood-music-recommender)
 
-<a href="https://mentorcruise.com/mentor/tingchiehlin/">
-<img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="240" alt="MentorCruise">
-</a>
+An AI music recommendation project exploring how mood input can guide music discovery. It connects a creative product concept with a web interface and an AI backend.
 
-## 💰 You can support me by donating
+**Technologies:** Next.js, React, TypeScript, Python, Flask, and OpenAI.
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
+### [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
 
-### AI & Data & Automation
+A full-stack project centred on product feedback.
+
+## 🛠 Projects
+
+### AI, Data & Automation
 
 - [AgentsVille Trip Planner](https://github.com/TingChiehLin/agentsville_planner)
-- [image_classifier_breed](https://github.com/TingChiehLin/image_classifier_breed)
+- [Breed Image Classifier](https://github.com/TingChiehLin/image_classifier_breed)
 
-### Full Stack Dev
+### Full-Stack Development
 
 - [Mood Music Recommender](https://github.com/TingChiehLin/ai-mood-music-recommender)
 - [Product Feedback](https://github.com/TingChiehLin/product-feedback-app)
 
-### Front End Dev
+### Creative Technology, XR & UX/UI
+
+- [Animal Village](https://tingchiehlin.com/animalvillage)
+- [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
+
+### Frontend Development
 
 - [The News](https://github.com/TingChiehLin/the-news)
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
@@ -65,16 +59,44 @@ To see more
 ### React Native
 
 - [MIXR](https://github.com/TingChiehLin/mixr)
-- [Mobile-Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
+- [Mobile Flashcards](https://github.com/TingChiehLin/Mobile-Flashcards)
 
-### Others
+### Other Projects
 
 - [C-3PO](https://youtu.be/eKKtbI5PHLo?si=mSS_Glo_Qtpiwzwp)
 - [Yummy CLI](https://github.com/TingChiehLin/CLI)
 - [Image Processing API](https://github.com/TingChiehLin/image-processing-api)
 - [Name Sorter](https://github.com/TingChiehLin/name-sorter)
 
-### XR & UX/UI & Game
+## 💼 My Portfolio
 
-- [Animal Village](https://tingchiehlin.com/animalvillage)
-- [Royal Botanic Gardens Victoria App](https://tingchiehlin.com/royalbotanicgarden)
+Explore my development work, design projects, and creative storytelling.
+
+- [Personal Website](https://tingchiehlin.com/)
+- [Design Portfolio](https://www.behance.net/jaylinxr)
+- [Devpost](https://devpost.com/cooloojayoo)
+- [Little Life Anime Stories](https://youtube.com/@littlelifeanimestories?si=Ac7Mn0kqWQ4xA-Av)
+
+## 📬 Contact Me
+
+Connect with me to discuss opportunities, projects, or collaborations across AI, product development, and creative technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylinxr/)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jaylinxr)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/cooloojayoo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jaylinxr)
+[![Little Life Anime](https://img.shields.io/badge/Little%20Life%20Anime-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/littlelife.anime)
+
+## 🧑🏼‍🏫 Mentoring
+
+I enjoy sharing knowledge and helping others grow through design and technology. Find my mentoring profile on MentorCruise.
+
+<a href="https://mentorcruise.com/mentor/tingchiehlin/">
+<img src="./img/mentorcruise-profile-card.jpg" width="1200" alt="Jay Lin's MentorCruise profile card — career mentoring"/>
+</a>
+
+## 💛 Support My Work
+
+If you enjoy my projects and creative work, you can support me with a coffee.
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tingchiehlin)
