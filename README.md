@@ -53,7 +53,6 @@ A full-stack project centred on product feedback.
 - [The News](https://github.com/TingChiehLin/the-news)
 - [Top Movies](https://github.com/TingChiehLin/top-movies)
 - [Crypto Search](https://github.com/TingChiehLin/crypto-search)
-- [World Holidays](https://github.com/TingChiehLin/world-holidays)
 - [SPLI TTER](https://github.com/TingChiehLin/spli-tter-ui)
 
 ### React Native
